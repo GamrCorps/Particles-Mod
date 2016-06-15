@@ -1,0 +1,26 @@
+itemGroup.particlesCreativeTab=Particles
+
+item.particleAir.name=Air Particle
+item.particleEarth.name=Earth Particle
+item.particleWater.name=Water Particle
+item.particleFire.name=Fire Particle
+item.particleLight.name=Light Particle
+item.particleEnergy.name=Energy Particle
+
+item.bindingLevel1.name=Weak Particle Binding Agent
+item.bindingLevel2.name=Stable Particle Binding Agent
+item.bindingLevel3.name=Strong Particle Binding Agent
+item.bindingLevel4.name=Epic Particle Binding Agent
+item.bindingLevel5.name=Legendary Particle Binding Agent
+
+item.windGenerator.name=Wind Generator
+item.energyAmountViewer.name=Energy Amount Viewer
+
+tile.particleFluidExtractor.name=Fluid Particle Extractor
+tile.solarCollector.name=Solar Collector
+tile.sifter.name=Sifter
+tile.energyNetworkLoader.name=Energy Network Loader
+
+container.upgradeHolder=Upgrade Catalyst
+
+item.upgradeOre.name=Ore Upgrade

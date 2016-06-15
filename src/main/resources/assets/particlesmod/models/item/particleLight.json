@@ -1,0 +1,6 @@
+{
+  "parent": "particlesmod:item/particleBase",
+  "textures": {
+    "layer0": "particlesmod:items/particles/particleLight"
+  }
+}

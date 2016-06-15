@@ -1,0 +1,6 @@
+{
+  "parent": "particlesmod:item/bindingBase",
+  "textures": {
+    "layer0": "particlesmod:items/bindings/bindingLevel4"
+  }
+}

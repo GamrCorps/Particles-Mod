@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "top": "blocks/dispenser_front_vertical",
+        "bottom": "blocks/dispenser_front_vertical",
+        "side": "blocks/furnace_front_off"
+    }
+}
